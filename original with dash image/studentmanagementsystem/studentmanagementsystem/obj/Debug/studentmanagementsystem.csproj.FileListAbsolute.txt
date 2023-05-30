@@ -1,0 +1,206 @@
+C:\Users\HP\AppData\Local\Temporary Projects\studentmanagementsystem\bin\Debug\studentmanagementsystem.exe.config
+D:\Original\studentmanagementsystem\studentmanagementsystem\bin\Debug\studentmanagementsystem.exe.config
+D:\Original\studentmanagementsystem\studentmanagementsystem\bin\Debug\studentmanagementsystem.exe
+D:\Original\studentmanagementsystem\studentmanagementsystem\bin\Debug\studentmanagementsystem.pdb
+D:\Original\studentmanagementsystem\studentmanagementsystem\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Original\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.csprojResolveAssemblyReference.cache
+D:\Original\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.AddmissionFee.resources
+D:\Original\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.AssignmentandProjectAllocationDetails.resources
+D:\Original\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.AssignmentandProjectDetails.resources
+D:\Original\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.AttendanceDetails.resources
+D:\Original\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.CertificateDetails.resources
+D:\Original\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.CourseConductDetailscs.resources
+D:\Original\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.CourseDetails.resources
+D:\Original\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.CourseFeePayment.resources
+D:\Original\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.CoursePreQualificationDetails.resources
+D:\Original\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.DashboardNew.resources
+D:\Original\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.Dashpanel.resources
+D:\Original\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.DepartmentDetails.resources
+D:\Original\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.DesignationDetails.resources
+D:\Original\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.ExamDetails.resources
+D:\Original\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.ExamFee.resources
+D:\Original\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.ExamPayment.resources
+D:\Original\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.Properties.Resources.resources
+D:\Original\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.staffDetails.resources
+D:\Original\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.StudentRegistration.resources
+D:\Original\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.SubjectDetails.resources
+D:\Original\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.TradeDetails.resources
+D:\Original\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.WorkingDaysAttendedDays.resources
+D:\Original\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.csproj.GenerateResource.Cache
+D:\Original\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.exe
+D:\Original\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.pdb
+D:\Original\original with dash image\studentmanagementsystem\studentmanagementsystem\bin\Debug\studentmanagementsystem.exe.config
+D:\Original\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.exe
+D:\Original\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.pdb
+D:\Original\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.csprojResolveAssemblyReference.cache
+D:\Original\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.AddmissionFee.resources
+D:\Original\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.AssignmentandProjectAllocationDetails.resources
+D:\Original\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.AssignmentandProjectDetails.resources
+D:\Original\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.AttendanceDetails.resources
+D:\Original\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.CertificateDetails.resources
+D:\Original\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.CourseConductDetailscs.resources
+D:\Original\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.CourseDetails.resources
+D:\Original\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.CourseFeePayment.resources
+D:\Original\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.CoursePreQualificationDetails.resources
+D:\Original\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.DashboardNew.resources
+D:\Original\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.Dashpanel.resources
+D:\Original\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.DepartmentDetails.resources
+D:\Original\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.DesignationDetails.resources
+D:\Original\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.ExamDetails.resources
+D:\Original\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.ExamFee.resources
+D:\Original\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.ExamPayment.resources
+D:\Original\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.Properties.Resources.resources
+D:\Original\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.staffDetails.resources
+D:\Original\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.StudentRegistration.resources
+D:\Original\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.SubjectDetails.resources
+D:\Original\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.TradeDetails.resources
+D:\Original\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.WorkingDaysAttendedDays.resources
+D:\Original\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.csproj.GenerateResource.Cache
+D:\Original\original with dash image\studentmanagementsystem\studentmanagementsystem\bin\Debug\studentmanagementsystem.exe
+D:\Original\original with dash image\studentmanagementsystem\studentmanagementsystem\bin\Debug\studentmanagementsystem.pdb
+D:\Original\original with dash image\studentmanagementsystem\studentmanagementsystem\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Amilaa JO22ICT510008\Software Programming\original with dash image\studentmanagementsystem\studentmanagementsystem\bin\Debug\studentmanagementsystem.exe.config
+D:\Amilaa JO22ICT510008\Software Programming\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.exe
+D:\Amilaa JO22ICT510008\Software Programming\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.pdb
+D:\Amilaa JO22ICT510008\Software Programming\original with dash image\studentmanagementsystem\studentmanagementsystem\bin\Debug\studentmanagementsystem.exe
+D:\Amilaa JO22ICT510008\Software Programming\original with dash image\studentmanagementsystem\studentmanagementsystem\bin\Debug\studentmanagementsystem.pdb
+D:\Amilaa JO22ICT510008\Software Programming\original with dash image\studentmanagementsystem\studentmanagementsystem\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Amilaa JO22ICT510008\Software Programming\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.csprojResolveAssemblyReference.cache
+D:\Amilaa JO22ICT510008\Software Programming\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.AddmissionFee.resources
+D:\Amilaa JO22ICT510008\Software Programming\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.AssignmentandProjectAllocationDetails.resources
+D:\Amilaa JO22ICT510008\Software Programming\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.AssignmentandProjectDetails.resources
+D:\Amilaa JO22ICT510008\Software Programming\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.AttendanceDetails.resources
+D:\Amilaa JO22ICT510008\Software Programming\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.CertificateDetails.resources
+D:\Amilaa JO22ICT510008\Software Programming\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.CourseConductDetailscs.resources
+D:\Amilaa JO22ICT510008\Software Programming\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.CourseDetails.resources
+D:\Amilaa JO22ICT510008\Software Programming\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.CourseFeePayment.resources
+D:\Amilaa JO22ICT510008\Software Programming\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.CoursePreQualificationDetails.resources
+D:\Amilaa JO22ICT510008\Software Programming\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.DashboardNew.resources
+D:\Amilaa JO22ICT510008\Software Programming\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.Dashpanel.resources
+D:\Amilaa JO22ICT510008\Software Programming\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.DepartmentDetails.resources
+D:\Amilaa JO22ICT510008\Software Programming\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.DesignationDetails.resources
+D:\Amilaa JO22ICT510008\Software Programming\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.ExamDetails.resources
+D:\Amilaa JO22ICT510008\Software Programming\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.ExamFee.resources
+D:\Amilaa JO22ICT510008\Software Programming\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.ExamPayment.resources
+D:\Amilaa JO22ICT510008\Software Programming\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.Properties.Resources.resources
+D:\Amilaa JO22ICT510008\Software Programming\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.staffDetails.resources
+D:\Amilaa JO22ICT510008\Software Programming\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.StudentRegistration.resources
+D:\Amilaa JO22ICT510008\Software Programming\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.SubjectDetails.resources
+D:\Amilaa JO22ICT510008\Software Programming\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.TradeDetails.resources
+D:\Amilaa JO22ICT510008\Software Programming\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.WorkingDaysAttendedDays.resources
+D:\Amilaa JO22ICT510008\Software Programming\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.csproj.GenerateResource.Cache
+D:\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\bin\Debug\studentmanagementsystem.exe.config
+D:\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.exe
+D:\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.pdb
+D:\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\bin\Debug\studentmanagementsystem.exe
+D:\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\bin\Debug\studentmanagementsystem.pdb
+D:\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.csprojResolveAssemblyReference.cache
+D:\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.AddmissionFee.resources
+D:\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.AssignmentandProjectAllocationDetails.resources
+D:\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.AssignmentandProjectDetails.resources
+D:\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.AttendanceDetails.resources
+D:\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.CertificateDetails.resources
+D:\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.CourseConductDetailscs.resources
+D:\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.CourseDetails.resources
+D:\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.CourseFeePayment.resources
+D:\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.CoursePreQualificationDetails.resources
+D:\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.DashboardNew.resources
+D:\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.Dashpanel.resources
+D:\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.DepartmentDetails.resources
+D:\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.DesignationDetails.resources
+D:\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.ExamDetails.resources
+D:\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.ExamFee.resources
+D:\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.ExamPayment.resources
+D:\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.Properties.Resources.resources
+D:\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.staffDetails.resources
+D:\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.StudentRegistration.resources
+D:\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.SubjectDetails.resources
+D:\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.TradeDetails.resources
+D:\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.csproj.GenerateResource.Cache
+D:\Original\Latest Version\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\bin\Debug\studentmanagementsystem.exe.config
+D:\Original\Latest Version\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.exe
+D:\Original\Latest Version\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.pdb
+D:\Original\Latest Version\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\bin\Debug\studentmanagementsystem.exe
+D:\Original\Latest Version\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\bin\Debug\studentmanagementsystem.pdb
+D:\Original\Latest Version\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Original\Latest Version\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.csprojResolveAssemblyReference.cache
+D:\Original\Latest Version\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.AddmissionFee.resources
+D:\Original\Latest Version\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.AssignmentandProjectAllocationDetails.resources
+D:\Original\Latest Version\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.AssignmentandProjectDetails.resources
+D:\Original\Latest Version\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.AttendanceDetails.resources
+D:\Original\Latest Version\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.CertificateDetails.resources
+D:\Original\Latest Version\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.CourseConductDetailscs.resources
+D:\Original\Latest Version\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.CourseDetails.resources
+D:\Original\Latest Version\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.CourseFeePayment.resources
+D:\Original\Latest Version\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.CoursePreQualificationDetails.resources
+D:\Original\Latest Version\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.DashboardNew.resources
+D:\Original\Latest Version\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.Dashpanel.resources
+D:\Original\Latest Version\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.DepartmentDetails.resources
+D:\Original\Latest Version\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.DesignationDetails.resources
+D:\Original\Latest Version\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.ExamDetails.resources
+D:\Original\Latest Version\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.ExamFee.resources
+D:\Original\Latest Version\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.ExamPayment.resources
+D:\Original\Latest Version\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.Properties.Resources.resources
+D:\Original\Latest Version\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.staffDetails.resources
+D:\Original\Latest Version\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.StudentRegistration.resources
+D:\Original\Latest Version\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.SubjectDetails.resources
+D:\Original\Latest Version\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.TradeDetails.resources
+D:\Original\Latest Version\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.csproj.GenerateResource.Cache
+D:\Amilaa JO22ICT510008\My Testing Project\original with dash image\studentmanagementsystem\studentmanagementsystem\bin\Debug\studentmanagementsystem.exe.config
+D:\Amilaa JO22ICT510008\My Testing Project\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.exe
+D:\Amilaa JO22ICT510008\My Testing Project\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.pdb
+D:\Amilaa JO22ICT510008\My Testing Project\original with dash image\studentmanagementsystem\studentmanagementsystem\bin\Debug\studentmanagementsystem.exe
+D:\Amilaa JO22ICT510008\My Testing Project\original with dash image\studentmanagementsystem\studentmanagementsystem\bin\Debug\studentmanagementsystem.pdb
+D:\Amilaa JO22ICT510008\My Testing Project\original with dash image\studentmanagementsystem\studentmanagementsystem\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Amilaa JO22ICT510008\My Testing Project\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.csprojResolveAssemblyReference.cache
+D:\Amilaa JO22ICT510008\My Testing Project\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.AddmissionFee.resources
+D:\Amilaa JO22ICT510008\My Testing Project\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.AssignmentandProjectAllocationDetails.resources
+D:\Amilaa JO22ICT510008\My Testing Project\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.AssignmentandProjectDetails.resources
+D:\Amilaa JO22ICT510008\My Testing Project\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.AttendanceDetails.resources
+D:\Amilaa JO22ICT510008\My Testing Project\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.CertificateDetails.resources
+D:\Amilaa JO22ICT510008\My Testing Project\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.CourseConductDetailscs.resources
+D:\Amilaa JO22ICT510008\My Testing Project\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.CourseDetails.resources
+D:\Amilaa JO22ICT510008\My Testing Project\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.CourseFeePayment.resources
+D:\Amilaa JO22ICT510008\My Testing Project\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.CoursePreQualificationDetails.resources
+D:\Amilaa JO22ICT510008\My Testing Project\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.DashboardNew.resources
+D:\Amilaa JO22ICT510008\My Testing Project\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.Dashpanel.resources
+D:\Amilaa JO22ICT510008\My Testing Project\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.DepartmentDetails.resources
+D:\Amilaa JO22ICT510008\My Testing Project\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.DesignationDetails.resources
+D:\Amilaa JO22ICT510008\My Testing Project\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.ExamDetails.resources
+D:\Amilaa JO22ICT510008\My Testing Project\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.ExamFee.resources
+D:\Amilaa JO22ICT510008\My Testing Project\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.ExamPayment.resources
+D:\Amilaa JO22ICT510008\My Testing Project\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.Properties.Resources.resources
+D:\Amilaa JO22ICT510008\My Testing Project\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.staffDetails.resources
+D:\Amilaa JO22ICT510008\My Testing Project\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.StudentRegistration.resources
+D:\Amilaa JO22ICT510008\My Testing Project\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.SubjectDetails.resources
+D:\Amilaa JO22ICT510008\My Testing Project\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.TradeDetails.resources
+D:\Amilaa JO22ICT510008\My Testing Project\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.csproj.GenerateResource.Cache
+C:\Users\Rajitha Madhushan\Desktop\complete Sproject\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\bin\Debug\studentmanagementsystem.exe.config
+C:\Users\Rajitha Madhushan\Desktop\complete Sproject\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.exe
+C:\Users\Rajitha Madhushan\Desktop\complete Sproject\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.pdb
+C:\Users\Rajitha Madhushan\Desktop\complete Sproject\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.AddmissionFee.resources
+C:\Users\Rajitha Madhushan\Desktop\complete Sproject\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.AssignmentandProjectAllocationDetails.resources
+C:\Users\Rajitha Madhushan\Desktop\complete Sproject\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.AssignmentandProjectDetails.resources
+C:\Users\Rajitha Madhushan\Desktop\complete Sproject\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.AttendanceDetails.resources
+C:\Users\Rajitha Madhushan\Desktop\complete Sproject\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.CertificateDetails.resources
+C:\Users\Rajitha Madhushan\Desktop\complete Sproject\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.CourseConductDetailscs.resources
+C:\Users\Rajitha Madhushan\Desktop\complete Sproject\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.CourseDetails.resources
+C:\Users\Rajitha Madhushan\Desktop\complete Sproject\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.CourseFeePayment.resources
+C:\Users\Rajitha Madhushan\Desktop\complete Sproject\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.CoursePreQualificationDetails.resources
+C:\Users\Rajitha Madhushan\Desktop\complete Sproject\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.DashboardNew.resources
+C:\Users\Rajitha Madhushan\Desktop\complete Sproject\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.Dashpanel.resources
+C:\Users\Rajitha Madhushan\Desktop\complete Sproject\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.DepartmentDetails.resources
+C:\Users\Rajitha Madhushan\Desktop\complete Sproject\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.DesignationDetails.resources
+C:\Users\Rajitha Madhushan\Desktop\complete Sproject\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.ExamDetails.resources
+C:\Users\Rajitha Madhushan\Desktop\complete Sproject\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.ExamFee.resources
+C:\Users\Rajitha Madhushan\Desktop\complete Sproject\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.ExamPayment.resources
+C:\Users\Rajitha Madhushan\Desktop\complete Sproject\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.Properties.Resources.resources
+C:\Users\Rajitha Madhushan\Desktop\complete Sproject\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.staffDetails.resources
+C:\Users\Rajitha Madhushan\Desktop\complete Sproject\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.StudentRegistration.resources
+C:\Users\Rajitha Madhushan\Desktop\complete Sproject\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.SubjectDetails.resources
+C:\Users\Rajitha Madhushan\Desktop\complete Sproject\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.TradeDetails.resources
+C:\Users\Rajitha Madhushan\Desktop\complete Sproject\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.csproj.GenerateResource.Cache
+C:\Users\Rajitha Madhushan\Desktop\complete Sproject\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\bin\Debug\studentmanagementsystem.exe
+C:\Users\Rajitha Madhushan\Desktop\complete Sproject\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\bin\Debug\studentmanagementsystem.pdb
+C:\Users\Rajitha Madhushan\Desktop\complete Sproject\Student Management System -  Group G\original with dash image\studentmanagementsystem\studentmanagementsystem\obj\Debug\studentmanagementsystem.csprojResolveAssemblyReference.cache
